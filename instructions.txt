@@ -1,0 +1,4 @@
+you can select the photos from static folder
+You can also check the sample outputs
+
+use python app.js to run the project
