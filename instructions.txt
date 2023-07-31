@@ -1,4 +1,22 @@
-you can select the photos from static folder
-You can also check the sample outputs
+Instructions to set up and run the application:
 
-use python app.py to run the project
+Step 1: Install Flask
+Open a terminal or command prompt on your computer.
+Type the following command and press Enter: pip install flask
+
+Step 2: Install Keras
+Type the following command and press Enter: pip install keras
+
+Step 3: Install TensorFlow
+TensorFlow is the backend for Keras and required for its functioning. 
+Type the following command and press Enter: pip install tensorflow
+
+Step 4: Install Pillow
+Type the following command and press Enter: pip install Pillow
+
+Step 5: Run the Flask Application
+
+- Place the app.py file, which contains the Flask application code, in the desired directory.
+- Open a terminal or command prompt and navigate to the directory where app.py is located using the 'cd' command.
+- Once inside the directory, execute the following command to run the Flask application: python app.py
+- Open your web browser and enter the URL http://127.0.0.1:5000 to access the Flask web application.
